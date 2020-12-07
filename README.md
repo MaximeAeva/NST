@@ -1,15 +1,20 @@
 # Neural Style Transfert
 > Exercise on Tensorflow to generate art from VGG 19 trained network
+
 <p align="left">
-![Art] (https://github.com/MaximeAeva/NST/blob/master/res/art.jpg)
-+
-![Photo] (https://github.com/MaximeAeva/NST/blob/master/res/photo.jpg)
+  <img src="https://github.com/MaximeAeva/NST/blob/master/res/art.jpg">
 </p>
++
+<p align="right">
+  <img src="https://github.com/MaximeAeva/NST/blob/master/res/photo.jpg">
+</p>
+
 <p align="center">
 =
 </p>
+
 <p align="center">
-![Result] (https://github.com/MaximeAeva/NST/blob/master/res/result.png)
+    <img src="https://github.com/MaximeAeva/NST/blob/master/res/result.png">
 </p>
 
 ## Installation
