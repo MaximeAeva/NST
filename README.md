@@ -3,9 +3,7 @@
 
 <p align="left">
   <img src="https://github.com/MaximeAeva/NST/blob/master/res/art.jpg">
-</p>
-+
-<p align="right">
+  <span>+</span>
   <img src="https://github.com/MaximeAeva/NST/blob/master/res/photo.jpg">
 </p>
 
