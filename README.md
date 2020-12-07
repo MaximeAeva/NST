@@ -9,7 +9,7 @@
 =
 </p>
 <p align="center">
-[Result](https://github.com/MaximeAeva/NST/blob/master/res/result.jpg)
+[Result](https://github.com/MaximeAeva/NST/blob/master/res/result.png)
 </p>
 
 ## Installation
